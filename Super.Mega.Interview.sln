@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Super.Mega.Interview.API", "Super.Mega.Interview.API\Super.Mega.Interview.API.csproj", "{AD70BD03-A684-4D37-AEE6-398EE8396594}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Super.Mega.Interview.Common", "Super.Mega.Interview.Common\Super.Mega.Interview.Common.csproj", "{0A8108BC-20B5-4D93-80D5-E8F79946EECD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD70BD03-A684-4D37-AEE6-398EE8396594}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD70BD03-A684-4D37-AEE6-398EE8396594}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD70BD03-A684-4D37-AEE6-398EE8396594}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD70BD03-A684-4D37-AEE6-398EE8396594}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A8108BC-20B5-4D93-80D5-E8F79946EECD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A8108BC-20B5-4D93-80D5-E8F79946EECD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A8108BC-20B5-4D93-80D5-E8F79946EECD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A8108BC-20B5-4D93-80D5-E8F79946EECD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D703C596-E652-4D90-9F78-CB8C37048E88}
+	EndGlobalSection
+EndGlobal
